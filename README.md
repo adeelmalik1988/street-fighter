@@ -7,5 +7,5 @@ In this WAAPI based project webanimation API is used to develop different moves 
 ### `Deployed on Surge`
 
 Project is deployed on surge for testing purpose.<br />
-Open [http://waapi-streetfighter-adeelmalik.surge.sh/](Click to test AAPI Project| surge-deployment) to view it in the browser.
+Open [http://waapi-streetfighter-adeelmalik.surge.sh/] to view it in the browser.
 
