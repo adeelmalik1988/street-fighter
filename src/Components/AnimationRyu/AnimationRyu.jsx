@@ -5,7 +5,7 @@ import RyuStand from './../Ryu/RyuStand';
 import RyuKick from './../Ryu/RyuKick';
 import RyuHook from './../Ryu/RyuHook';
 import 'bootstrap/dist/css/bootstrap.css';
-import 'bootstrap/dist/css/custom.css';
+import './BootstrapCustom.css';
 
 
 
